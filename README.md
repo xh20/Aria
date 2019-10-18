@@ -1,5 +1,6 @@
-# Aria
+# Aria 
 In case the orignial website stop working
+Also working on Ubuntu 18.04
 
 
 # Installation
